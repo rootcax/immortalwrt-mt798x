@@ -8,3 +8,4 @@ src-git lienol https://github.com/Lienol/openwrt-package.git;main
 src-git other https://github.com/Lienol/openwrt-package.git;other
 src-git PWpackages https://github.com/xiaorouji/openwrt-passwall.git;packages
 src-git PWluci https://github.com/xiaorouji/openwrt-passwall.git;luci
+
